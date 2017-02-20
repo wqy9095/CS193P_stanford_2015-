@@ -1,2 +1,2 @@
-# CS193P_stanford_2015-
-lesson_1_calculator
+# CS193P_stanford_2015本
+本仓库用于记录个人的swift学习历程
