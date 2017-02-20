@@ -1,2 +1,2 @@
-# CS193P_stanford_2015本
+# CS193P_stanford_2015
 本仓库用于记录个人的swift学习历程
